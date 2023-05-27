@@ -1,6 +1,357 @@
 City,distanceTlv
-Eilat,
-Ein Gedi,
+Eilat,281.8
+Ein Gedi,90.2
 Herzelia ,
 Merom Golan,
-Ein Bokek,
+Ein Bokek,112.4
+Zikhron Yaaqov,
+Rosh Pinna,122.0
+Mitzpe Ramon,163.2
+Assaf Harofeh,
+Keshet,91.5
+HaOn,106.7
+Rishon LeZiyyon,
+Akko,
+Nir Dawid,
+Almog,
+Nazareth,84.6
+Beer Sheva,
+Zuqim,
+Metulla,
+Mishmar Hayardin,
+Sede Boqer,
+Maghar,107.6
+Maale Gamla,
+Addirim,
+Yesod Hamaala,
+Parod,112.9
+Gadot,130.5
+Tiberias,105.4
+Dalia,63.3
+Kefar Blum,
+Nahariyya,
+bla,
+Hatzor haglilit,123.0
+Haifa,84.7
+Sede Yoav,
+Qiryat Anavim,
+Kibbutz Shefayim,
+Arbel,104.8
+Holon,7.2
+Lohame HaGetaot,
+Gerofit,
+Tirat Karmel,
+Bet Oren,
+Bet Yannay,
+Kalia,
+Shave Ziyyon,
+Tel Aviv,0.0
+Ashdod,33.7
+Neve Zohar,117.1
+Jerusalem,53.8
+Sede Nehemya,
+Masade,
+Yeroham,
+Zeelim,
+En Gev,
+Livnim,110.1
+Netanya,29.1
+Tal Shahar,32.6
+Moran,109.7
+Ein Zivan,147.8
+Bet Lehem HaGelilit,
+Lahavot HaBashan,
+Ashkelon,50.3
+Maale Gilboa,
+Caesarea,48.0
+Dafna,151.0
+Maale Hachamisha,
+Ramat Gan,4.3
+Ramat Yishay,
+Yoqneam,
+Maalot Tarshiha,
+Clil,
+Amikam,
+Aniam,
+Neot Golan,
+En Harod,
+Hazeva,
+Ortal,
+Safed,119.3
+Had Nes,
+Qiryat Amal,
+Mizra,79.4
+Avnei Eitan,
+Migdal,108.1
+Nes Ammim,103.5
+Amirim,114.3
+Menahemya,
+Hadera,43.1
+Moshav Ramot,
+Kefar Weradim,
+Yerushalayim,
+Yavneel,
+Sharona,96.6
+Midreshet Ben Gurion,136.5
+Givot Bar,
+Goren,116.8
+Gan Shomeron,
+Raananna,
+Kramim,84.0
+Gonen,141.5
+Kibbutz Snir,
+Omer,
+Hagoshrim,149.4
+Paran,
+Hararit,101.5
+Odem,
+Nachsholim,
+Kefar Szold,
+Yuvallim,
+Nahal Yaalon,
+Shoresh,41.4
+Elon,
+Bat Yam,6.9
+Qiryat Shemona,
+Ezuz,146.2
+Daverat,
+Khirbet Minim,
+Bustan HaGalil,100.9
+Agur,
+Kefar Giladi,
+Katzir ,105.0
+Or Yehuda,8.4
+Oranim,76.7
+Liman,113.2
+Regba,104.1
+Majdal Shams,161.5
+Herzliyya B,
+Ein el Asad,
+Metsoke Dragot,
+Gevulot,
+Arad,100.0
+Beer Milka,
+Shaar Hagolan,
+Qiryat Ata,
+Miilya,
+Kinar,
+Gedera,29.6
+Shomera,
+Karmiel,102.7
+Poriyya Illit,
+Nahf,107.3
+Elifaz,
+Kinneret,102.6
+Hazor Ashdod,
+Isfiya,75.9
+Zimrat,73.5
+Kabri,110.2
+Shlomi,116.8
+Neot HaKikar,
+Mazzuva,
+Midrakh Oz,67.4
+Qiryat Shemuel,
+Kahal,113.3
+Afula,75.7
+Malkiyya,
+Zova,
+Melilot,
+Moreshet,93.5
+Dor,65.0
+Beit Jann,113.4
+Dimona,114.8
+Ein Kinya,
+Kibbutz Ginnosar,
+Meitar,85.2
+Shaal,
+Dishon,
+Mashabbe Sade,
+Atlit,69.1
+Yad Hashmona,41.8
+Tirat Yehuda,16.2
+Tsivon,
+Neve Ilan,41.3
+Givat Yoav,
+Abirim,116.8
+Kfar Adumim,
+Ramat Shlomo,
+Bet HaShitta,
+Adi,86.5
+Shadmot Devora,
+Urim,89.7
+Qasrine,
+Shear Yashuv,
+Kfar Haruv,
+Kfar Rut,
+Buqata,
+Ashdot Yaaqov,
+Lotem,104.4
+Ilut,84.0
+Manot,
+Kafr Kanna,91.7
+Oshrat,
+Bruchim Qela Alon,
+Bet Alfa,
+Bet Hillel,
+Bet Shean,
+Mitzpe Hila,
+Givat Ada,54.7
+Petah Tiqwa,
+Gilon,101.0
+Even Sappir,
+Allonim,
+Jish,122.2
+Kefar Ruppin,
+Bet Shemuel,
+Ovnat,
+Kannot,31.0
+Qiryat Yam,
+Daliyat el Karmil,
+Mashen,
+Tzur Hadassah,50.1
+Rechovot,
+Beer Ora,
+Retamim,114.4
+Qiryat Binyamin,
+Gidona,
+Sifsufa,
+Hefzi Bah,
+Qiryat Hayyim,
+Netivot,76.1
+Yiron,
+Ramat HaSharon,9.2
+Kefar Shemaryahu,
+Kfar Saba,16.8
+Reshef,
+Bazra,
+Jaffa Tel Aviv,
+Hod HaSharon,12.5
+Bene Beraq,
+Qiryat Ono,
+Givat Rambam,
+Migdal Afeq,
+Yehud,23.4
+Azor,7.8
+Miqwe Yisrael,
+Kefar Yona,
+Lod,18.4
+Merhav Am,
+Ashalim,124.5
+Kidmat Tsvi,
+Sede Eliezer,
+Mikhmannim,
+Lavi,100.3
+Eilabun,102.5
+Mayan Barukh,
+Tabash,
+Chorazim,
+Amqa,
+Buqeia,
+Gesher HaZiw,
+Ilaniya,95.4
+El-Rom,
+Nimrod,158.3
+Kefar Shammay,
+Moledet,83.9
+Kefar Tavor,
+Kefar Rosh HaNiqra,
+Dalton,123.4
+Yonatan,
+Givat Nili,57.4
+Tel Kazir,
+Haspin,127.5
+Kallanit,
+Adamit,118.1
+HaKarmel,
+Yifat,
+Tarshiha,113.9
+Qiryat Tivon,
+Ammiad,
+Mahanayim,125.3
+Qiryat Motzkin,
+Givat Avni,
+Amir,114.3
+Gornot HaGalil,117.5
+Even Menahem,
+Kefar Hittim,
+Merhavya,
+Bat Gallim,
+Yuval,150.7
+HaZoreim,
+Qiryat Haroshet,
+Natur,
+Kefar Hananya,
+Lavon,107.0
+Shefer,114.1
+Nov,
+Deir Hanna,
+Gan Ner,72.6
+Ein Yaaqov,
+Nurit,74.6
+Yaara,
+Peqiin Hadasha,
+Yarka,102.1
+Hanita,117.9
+Ramot Naftali,134.7
+Rumat Heib,
+Bet Zevi,
+Yesud HaMaala,
+En Hod,
+Ayyelet HaShahar,
+Bat Shelomo,
+Mizpa,
+Mitspe Netofa,
+Rehov,21.1
+Yanuh,
+Hosen,113.0
+Modiin,
+Givat Brenner,
+Nes Ziyyona,
+Givat Shemuel,
+Gan Shelomo,
+Aseret,28.6
+Yad Binyamin,31.7
+Mikhmoret,37.2
+Ramla,18.7
+Maale Adumim,
+Nizzane Sinay,
+Ein HaBesor,
+Nevatim,95.7
+Telamim,
+Ein Tamar ,138.4
+Eitan,44.8
+Ozem,
+Sappir,
+Kibbutz Mitzpe Shalem,
+Golan Heights,
+Alonei Habashan,
+Neve Ativ,
+Meir Shefeya,
+Or Aqiva,
+Binyamina,51.6
+HaBonim,63.5
+Kerem Maharal,
+Newe Avot,
+Pardes Hanna,
+Newe Hayyim,
+Harish,
+Givat Olga,
+Umm el Qutuf,
+Maor,
+Yajur,
+Nesher,80.6
+Ahihud,99.1
+Avdon,114.0
+Almagor,120.5
+Hazon,108.4
+Biriyya,
+Hurfeish,117.0
+Kadita,
+Maalot,
+Shezor,109.0
+Fassuta,118.5
+Nof Kinneret,
+Qiryat Sara,
+Rama,4.1
+Kammon,
+Elifelet,120.4
